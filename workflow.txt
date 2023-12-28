@@ -1,0 +1,8 @@
+WorkFlow :-
+
+1. Create Repo in GitHub
+2. Clone (Remote to Local)
+3. Make changes(files) in VS Code
+4. Add (Staged)
+5. Commit (Save changes)
+6. Push (Local to Remote)
